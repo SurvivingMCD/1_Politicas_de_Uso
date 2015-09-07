@@ -1,4 +1,4 @@
-# 1_Reglamento
+# 1_Politicas_de_Uso
 
 Creo que es importante establecer ciertas reglas y estandares para que nuestros repositorios no se salgan de control
 
